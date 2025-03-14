@@ -3,4 +3,5 @@ All my notes and solutions from the University of Helsinki's Python Programming 
 
 The exercises and examples are entirely implemented in Python 3. There are no requirements for external packages and/or libraries, except for Part 13 and 14, which requires Pygame.
 
+All exercises from the advance course are validated as correct.
 Final Note: TBA
